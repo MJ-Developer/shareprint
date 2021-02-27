@@ -105,7 +105,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6">
-                            <span>Copyright © 2021, All Right Reserved Seobin</span>
+                            <span>Copyright © 2021, By FreeDownload Developer</span>
                         </div>
                         <!-- End Col -->
                         <div class="col-md-6">
@@ -148,6 +148,7 @@
     <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
     <script src="js/jquery-3.4.1.slim.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/source.js"></script>
 
     <!-- Show Your Maps -->
 

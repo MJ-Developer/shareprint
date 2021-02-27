@@ -6,7 +6,7 @@ include "template/navbar.php";
 
     <!-- [ Start ] Carousel -->
 
-    <div class="container">
+    <div class="container mt-5">
 
     <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
